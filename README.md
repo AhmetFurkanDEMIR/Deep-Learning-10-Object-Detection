@@ -34,6 +34,4 @@
 * Let's start then :), open the file named Autonomous_driving_application_Car_detection_v3a.ipynb with Jupyter-notebook. Have fun :).
 
 
-
-
-
+References : Convolutional Neural Networks - https://www.coursera.org/learn/convolutional-neural-networks
